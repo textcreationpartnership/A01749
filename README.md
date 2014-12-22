@@ -35,31 +35,43 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A discourse of a discouerie for a new passage to Cataia. VVritten by Sir Humfrey Gilbert, KnightGilb
+
+1. GEORGE GASCOIGNE Esquire to the Reader.
+
+1. A PROPHETICAL SOnet of the same George Gascoine, vpon the commendable trauaile which Sir Humfrey Gilbert hath disclosed in this worke.
+
+1. ¶A LETTER OF SIR Humfrey Gilbert, Knight, sent to his Brother, Sir IOHN GILBERT, of Compton, in the Countie of Deuon Knight, concerning the discourse of this Discouerie.
+
+1. The Table of the matters conteyned in euerie Chapter of this Booke.
+
 #####Body#####
+A GENERAL MAP, MADE ONELYE FOR THE PARTICVLER DECLARATION OF THIS DISCOVERY.
+1. To proue a passage by authoritie to be on the Northside of AMERICA, to goe to CATAIA, China, and the East India. &c.
 
-1. To proue by reason, a passage to be on the Northside of AMERICA: to goe to CATAIA, &c, Cap. 2.
+    _ To proue by reason, a passage to be on the Northside of AMERICA: to goe to CATAIA, &c, Cap. 2.
 
-1. To proue by experience of sundrie mens trauels, the opening of some part of this Northvvest passage: wherby good hope remaineth of the rest.
+    _ To proue by experience of sundrie mens trauels, the opening of some part of this Northvvest passage: wherby good hope remaineth of the rest.
 
 Cap. 3.
 
-1. To proue by circumstance, that the Northvvest passage, hath beene sayled thorough out. Cap. 4.
+    _ To proue by circumstance, that the Northvvest passage, hath beene sayled thorough out. Cap. 4.
 
-1. To prooue that these Indians aforenamed, came not by the Southeast, Southvvest, nor from any other part of Afrik, or America. Cap. 5.
+    _ To prooue that these Indians aforenamed, came not by the Southeast, Southvvest, nor from any other part of Afrik, or America. Cap. 5.
 
-1. ¶To prooue that those Indians came not by the Northeast, & that ther is no thorow Nauigable passage that way. Cap. 6.
+    _ ¶To prooue that those Indians came not by the Northeast, & that ther is no thorow Nauigable passage that way. Cap. 6.
 
-1. To prooue that the Indians aforenamed, came onely by the Northvvest, which induceth a certeintie of our passage by experience. Cap. 7.
+    _ To prooue that the Indians aforenamed, came onely by the Northvvest, which induceth a certeintie of our passage by experience. Cap. 7.
 
-1. Certaine reasons, alledged for the prouing of a passage by the Northeast, before the Queenes Maiestie, and certaine Lordes of the Counsell, with my seuerall answeres, then vsed to the same. Cap. 8.
+    _ Certaine reasons, alledged for the prouing of a passage by the Northeast, before the Queenes Maiestie, and certaine Lordes of the Counsell, with my seuerall answeres, then vsed to the same. Cap. 8.
 
-1. ¶ How that the passage by the Northvvest, is more commodious for our traffik, then the other by the East: if there were any such. Cap. 9.
+    _ ¶ How that the passage by the Northvvest, is more commodious for our traffik, then the other by the East: if there were any such. Cap. 9.
 
-1. ¶ VVhat commodities woulde ensue, this passage once discouered. Cap. 10.
+    _ ¶ VVhat commodities woulde ensue, this passage once discouered. Cap. 10.
 
 #####Back#####
-A discourse of a discouerie for a new passage to Cataia. VVritten by Sir Humfrey Gilbert, KnightGilb
+
+1. Faultes escaped in the printing.
+
 **Types of content**
 
   * There are 16 **verse** lines!
